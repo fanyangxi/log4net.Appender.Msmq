@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>log4net.Appender.Msmq</id>
+    <title>log4net.Appender.Msmq</title>
+    <version>1.0.4</version>
+    <authors>FAN Yangxi</authors>
+    <owners>fanyangxi</owners>
+    <licenseUrl>https://github.com/fanyangxi/log4net.Appender.Msmq/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/fanyangxi/log4net.Appender.Msmq</projectUrl>
+    <iconUrl>https://github.com/fanyangxi/log4net.Appender.Msmq/blob/master/doc/nugeticon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A log4net appender for MSMQ (Microsoft Message Queuing)</description>
+    <summary>A log4net appender for MSMQ (Microsoft Message Queuing)</summary>
+    <releaseNotes>Set the log4net lib dependency version to 2.0.8</releaseNotes>
+    <copyright>Copyright (c) 2017</copyright>
+    <tags>log4net log4net-appender logging msmq</tags>
+    <dependencies>
+      <dependency id="log4net" version="2.0.8" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\log4net.Appender.Msmq.dll" target="lib\net40\log4net.Appender.Msmq.dll" />
+  </files>
+</package>

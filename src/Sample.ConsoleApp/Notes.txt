@@ -1,0 +1,9 @@
+﻿// Transactional Queue
+
+// CreateQueueIfNotExists
+
+// Encoding
+
+
+<!--<conversionPattern value="%date [%thread] %-5level %appdomain %logger (%ndc) (%property{log4net:UserName}) [%ndc] - (%stacktracedetail) %message %exception %newline" />-->
+<!--<conversionPattern value="%date [%thread] %-5level %logger - %message%newline" -->
